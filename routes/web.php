@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,19 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
+
+
+Route::post('/create', [PostController::class, 'create'])->middleware(['auth'])->name('create');
+Route::get('/post', [PostController::class, 'index'])->middleware(['auth'])->name('post_index');
+Route::get('/view', [PostController::class, 'postView'])->middleware(['auth'])->name('post_list');
+
+Route::get('/userlist', [PostController::class, 'myList'])->middleware(['auth'])->name('my_list');
+
+
+
+
+require __DIR__.'/auth.php';

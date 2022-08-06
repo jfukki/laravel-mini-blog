@@ -1,0 +1,1233 @@
+.CustomSticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background:red
+  }
+  .hidden-lg{
+      
+      display:none !important
+  }
+  .bars{
+      background:#000 !important
+  }
+  /*Academics page*/
+  
+  small, .font_small {
+      font-size: 1.1em !important;
+      color: black;
+  }
+  .liquid-blog-contents-inside .liquid-lp-media{
+      width:95% !important;
+      background-size:contain !important;
+      background-repeat: no-repeat !important;
+  }
+  .qodef-btn .qodef-btn-text{
+      padding-left: 15px !important;
+  }
+  /*end of academics page*/
+  .titlebar.scheme-light{
+      height:520px;	
+  }
+  .gs_logo-single--flex-center{
+      padding: 50px !important;
+  }
+  .select2-selection{
+      padding:8px !important;
+  }
+  .quform-field {
+      padding:8px !important;
+  }
+  .video2btn .btn-icon{
+      visibility: hidden !important;
+  }
+  /*@media screen and (max-width: 600px) {
+    .titlebar.scheme-light {
+     height:170px;	
+    }
+  }*/
+  .titlebar.scheme-light{
+      background-color:white !important;
+  }
+  .titlebar > .titlebar-overlay.ld-overlay {
+      display:none;
+  }
+  .titlebar.scheme-light .titlebar-inner h1{
+      display:none;
+  }
+  
+  ul.nav.tabs-nav li a:hover {
+      color: white !important;
+  }
+  
+  .tabs-nav > li.active > a{
+      color: white !important;
+  }
+  
+  .main-nav .children, .nav-item-children {
+      min-width: 302px;
+  }
+  /*Rsponsive start*/
+  @media screen and (max-width: 1024px) {
+   .titlebar.scheme-light {
+     height:350px;
+   }
+      .Applysection .applybtn {
+          font-size:15px;
+          height:60px;
+      }
+      .Applysection .applybutton{
+          font-size:15px;
+          height:60px;
+      }
+      .facultytext{
+          line-height: 0.1;
+      padding-top: 25px;
+      }
+      .facultytext .faculty-text{
+          font-size:15px !important;
+          line-height:1.5 !important;
+      }
+  }
+  @media screen and (max-width: 991.98px) {
+    .titlebar.scheme-light {
+     height:335px;	
+    }
+  }@media screen and (max-width: 768px) {
+    .titlebar.scheme-light {
+     height:265px;	
+    }
+      .Applysection .wpb_wrapper-inner{
+          padding:5px !important;
+          width:100% !important;
+      }
+      .Applysection .applybtn{
+          font-size:12px !important;
+          height:50px !important;
+      }
+      .Applysection .applybutton{
+          font-size:12px !important;
+          height:50px !important;
+      }
+      .facultytext{
+          padding-bottom:20px;
+      }
+      .careercard h3{
+          font-size:12px !important;
+      }
+      .careercard{
+          height:150px !important;
+      }
+      .cta-view-more .vc_cta3-content {
+          padding-left:0px !important;
+          display:block !important;
+          
+      }
+      .cta-view-more .vc_cta3-content p {
+          text-align:left !important;
+      }
+  }
+  @media screen and (max-width: 600px) {
+    .titlebar.scheme-light {
+     height:205px;	
+    }
+      .facultytext .faculty-text{
+          font-size:16px !important;
+      }.cta-view-more .vc_cta3-content p {
+          text-align:center !important;
+      }
+      #careers .fancy-box img{
+          width:10%;
+      }
+  /* 	#degreesection, #semestermain,#scholarship-main, #feestructure #hu-all-degrees, .company-logo-section, .degree-recognition-section, h2{
+          font-size:35px !important;
+      } */
+  }
+  .section-heading h2{
+      font-size:30px;
+  }
+  @media screen and (max-width: 375px) {
+    .titlebar.scheme-light {
+     height:130px;	
+    }
+      #careers .fancy-box img{
+          width: 20% !important;
+      }
+      #careers .vc_column-inner{
+          width:90% !important;
+          margin:0 auto;
+      }
+      .scholarshiptext .wpb_wrapper p{
+          font-size:18px !important;
+      }
+      #prospectus-img{
+      margin-top: -115px !important;
+  }
+      .prosbutton{
+          margin:10px 0px !important;
+      }
+  }
+  /*Responsive End*/
+  .awsm-job-item{
+      margin-bottom:50px !important;
+  }
+  #seprators .vc_icon_element-inner{
+      padding:0 1.8em !important;
+  }
+  #topicon{
+  align-items:normal !important;
+  }
+  .hu-all .iconbox-icon-image {
+      padding: 50px 10px !important;
+      color: white !important;
+  }
+  .hu-all .iconbox-icon-image h3 {
+      color: #fff !important;
+      font-size: 22px !important;
+      padding-top: 17px !important;
+      line-height: 33px !important;
+  }
+  .hu-courses-table {
+      background: #921123 !important;
+      color: #fff !important;
+  }
+  .table.hu-courses-table tbody th, table.hu-courses-table tbody td, table.hu-courses-table thead th {
+      padding: 15px !important;
+  }
+  .uni-pros {
+      color: #fff;
+      font-size: 35px;
+      font-style: oblique;
+      line-height: 58px;
+      font-weight: 400;
+  }
+  .pros-view {
+      color: #fff;
+      font-size: 55px;
+      font-style: initial;
+      font-weight: 600;
+  }
+  .fancy-title h6 {
+      font-size: 24px;
+  }
+  .hu-country-info {
+      background-color: #500000;
+      color: white;
+      height: 390px;
+      width: 390px;
+      border-radius: 50%;
+      padding: 2.7rem 1rem;
+      text-align: center;
+      float: none;
+      clear: both;
+      margin: auto;
+  }
+  .hu-country-info .number {
+      font-size: 4rem;
+      color: #fff;
+      margin: 0;
+      font-weight: 100;
+      line-height: 90px;
+  }
+  .hu-country-info .info-text {
+      font-size: 1.15rem;
+      color: white;
+      text-transform: uppercase;
+      line-height: 44px;
+  }
+  .hu-all-degrees .fancy-box-classes img {
+      width: 40% !important;
+  }
+  #semester{
+      width: 100% !important;
+  
+  }
+  #semester h3{
+          background: #921123;
+      border-radius: 50px;
+          padding-top: 7px;
+      padding-bottom: 7px;
+      text-align: center;
+      color: white !important;
+     margin-left: -20px;
+      width: 104%;
+  }
+  .fancy-box-classes{
+      border-radius:10px !important;
+  }
+  
+  #careers{
+      text-align:center !important;
+      
+  }
+  #careers .fancy-box img {
+      width: 30%;
+      padding-top:15px !important;
+  }
+  #features h3{
+      font-size:18px !important;
+  }@media only screen and (min-width: 992px) {
+  #recognition{
+      margin-right: -100px !important;
+      }
+  }
+  #recognition .vc_gitem-zone {
+      width:180px !important;
+      height:180px !important;
+  }
+  #employrate{
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+      
+          transition: 0.4s ease;
+  }
+  #employrate:hover{
+      transform: scale(1.02);
+  }
+  
+  @media only screen and (max-width: 600px) {
+  
+          #recognition .vc_gitem-zone {
+              margin:0 auto !important;
+  
+      }
+  }
+  @media only screen and (max-width: 768px) {
+  .hu-all .iconbox-icon-image h3 {
+   font-size: 15px !important;
+  }
+      .hu-all .iconbox-icon-image {
+      padding: 0px 0px !important;
+      
+  }
+  }
+  
+  div#main .main-nav > li > a {
+      padding-top: 30px !important;
+  }
+  .prosbutton a {
+      background:none !important;
+  }
+  /*progressbar css*/
+  .bar {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto auto 0;
+  
+    max-width: calc(100% - 30px);
+  }
+  .bar-input {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(10):after {
+    transition-delay: -0.05s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(10) .bar-button:before {
+    transition-delay: 0.01s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(8):after {
+    transition-delay: 0.05s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(8) .bar-button:before {
+    transition-delay: 0.11s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(6):after {
+    transition-delay: 0.15s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(6) .bar-button:before {
+    transition-delay: 0.21s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(4):after {
+    transition-delay: 0.25s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(4) .bar-button:before {
+    transition-delay: 0.31s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(2):after {
+    transition-delay: 0.35s;
+  }
+  .bar-input:checked ~ .bar-view:nth-child(2) .bar-button:before {
+    transition-delay: 0.41s;
+  }
+  .bar-input:checked ~ .bar-view:after {
+    transform: scaleX(1);
+  }
+  .bar-input:checked ~ .bar-view .bar-button:before {
+    transform: none;
+    opacity: 1;
+  }
+  .bar-input:checked + .bar-view .bar-button:after {
+    opacity: 1;
+    -webkit-animation: bouncing 0.6s cubic-bezier(0, 0, 0.74, 1.04) infinite;
+            animation: bouncing 0.6s cubic-bezier(0, 0, 0.74, 1.04) infinite;
+  }
+  .bar-view {
+    display: flex;
+    flex-grow: 1;
+    position: relative;
+  }
+  .bar-view:after {
+    height: 2px;
+    top: calc(50% - 1px);
+    transition: transform 0.06s cubic-bezier(0, 0.72, 0.58, 1);
+    transform: scaleX(0);
+    background: #FFB732;
+    transform-origin: left;
+    z-index: 1;
+  }
+  .bar-view:not(:last-child):before, .bar-view:not(:last-child):after {
+    content: "";
+    width: calc(100% - 15px);
+    position: absolute;
+    right: calc(47% + 15px);
+  }
+  .bar-view:not(:last-child):before {
+    height: 4px;
+    top: calc(50% - 3px);
+    background: #DEDEDE;
+  }
+  .bar-view:not(:last-child):nth-child(2):after {
+    transition-delay: 0s;
+  }
+  .bar-view:not(:last-child):nth-child(2) .bar-button:before {
+    transition-delay: 0.06s;
+  }
+  .bar-view:not(:last-child):nth-child(4):after {
+    transition-delay: 0.1s;
+  }
+  .bar-view:not(:last-child):nth-child(4) .bar-button:before {
+    transition-delay: 0.16s;
+  }
+  .bar-view:not(:last-child):nth-child(6):after {
+    transition-delay: 0.2s;
+  }
+  .bar-view:not(:last-child):nth-child(6) .bar-button:before {
+    transition-delay: 0.26s;
+  }
+  .bar-view:not(:last-child):nth-child(8):after {
+    transition-delay: 0.3s;
+  }
+  .bar-view:not(:last-child):nth-child(8) .bar-button:before {
+    transition-delay: 0.36s;
+  }
+  .bar-view:not(:last-child):nth-child(10):after {
+    transition-delay: 0.4s;
+  }
+  .bar-view:not(:last-child):nth-child(10) .bar-button:before {
+    transition-delay: 0.46s;
+  }
+  .bar-button {
+      
+    display: block;
+    width: 15px;
+    height: 15px;
+    margin: auto;
+    border-radius: 50%;
+    border: 3px solid #DEDEDE;
+    position: relative;
+    cursor: pointer;
+  
+  }
+  .bar-button:hover:after {
+    transform: none;
+    opacity: 1;
+  }
+  .bar-button:before, .bar-button:after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+  }
+  .bar-button:before {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, #FFDD4A, #FE9000);
+    transform: scale(0.3);
+    opacity: 0;
+    transition-property: transform, opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0, 0.72, 0.58, 1);
+  }
+  .bar-button:after {
+    border: 8px solid transparent;
+    border-top-color: #DEDEDE;
+    bottom: calc(100% + 10px);
+    left: calc(50% - 8px);
+    transform: translateY(-10px);
+    opacity: 0;
+    transition-property: transform, opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0, 0, 0, 1.97);
+  }
+  
+  .command {
+    font-family: "Ubuntu Mono", monospace;
+    letter-spacing: 1px;
+    margin: 30px auto auto;
+    -webkit-animation: fade 1s ease infinite;
+            animation: fade 1s ease infinite;
+  }
+  
+  
+  
+  
+  @-webkit-keyframes bouncing {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(5px);
+    }
+  }
+  
+  @keyframes bouncing {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(5px);
+    }
+  }
+  @-webkit-keyframes fade {
+    50% {
+      opacity: 0.3;
+    }
+  }
+  @keyframes fade {
+    50% {
+      opacity: 0.3;
+    }
+  }
+  /*end of progress bar*/
+  .heading1 {
+      position: absolute;
+      top: 20px;
+      right: 90px;
+  }
+  .heading2 {
+      position: absolute;
+      top: 20px;
+      right: 70px;
+  }
+  .heading3 {
+      position: absolute;
+      top: 20px;
+      right: 60px;
+  }
+  .heading4 {
+      position: absolute;
+      top: 20px;
+      right: 50px;
+  }
+  .heading5 {
+      position: absolute;
+      top: 20px;
+      right: 50px;
+  }
+  
+  .careercard{
+          height: 200px !important;
+  }
+  #prosbar{
+      padding-bottom: 5px;
+      padding-top: 40px;
+     box-shadow: 0 2px 4px 0 rgb(50 50 50 / 20%);
+      background: white;
+      position: fixed;
+      z-index: 25;
+      /* top: 48px; */
+      top: 7rem;
+      width: 100%;
+  }
+  .scolarlashipn .vc_general.vc_cta3.vc_cta3-shape-rounded {
+      text-align:center;
+  }
+  .scolarlashipn .vc_general.vc_cta3.vc_cta3-actions-bottom .vc_cta3-content{
+      text-align:center;
+  }
+  .scolarlashipn .vc_general.vc_cta3 h2 {
+      color:black;
+      font-weight:bolder;
+  }
+  .scolarlashipn .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern{
+      background: #921123;
+      color: white;
+  }
+  .scolarlashipn .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern:hover{
+      background: white ;
+      color: #921123;
+      border: 1px solid #921123;
+  }
+  .Applysection .wpb_wrapper-inner{
+      border:1px solid #d8d8d8;
+      padding: 15px;
+      padding-bottom:35px !important;
+      text-align: center;
+  background:white;
+      width: 85%;
+      margin:0 auto;
+  }
+  .Applysection .btn{
+        margin: 5px 0px;
+      justify-content: center;
+      width: 80%;
+  }
+  
+  
+  #scholarshipimg{
+      float:right !important;
+  }
+  .scholarshiptext .wpb_text_column {
+      width: 50%;
+      display: inline;
+      padding-left: 20px;
+  }
+  .scholarshiptext .btn{
+      display: inline;
+      float: left;
+      text-align:center !important;
+      width:215px !important;
+      height:65px !important;
+  }
+  .degreeoverviewl .iconbox-inline .contents{
+      margin-top:5px !important;
+  }
+  div#logo-carousel-free-9608.logo-carousel-free .sp-lc-logo{
+      border:none !important;
+  }
+  .logo-carousel-free .sp-lc-logo img{
+      padding:35px !important;
+  }
+  .sp-lc-container .sp-lc-pagination .swiper-pagination-bullet{
+      width:8px !important;
+      height:8px !important;
+  }
+  .fa-caret-right{
+      padding-right:25px;
+          font-size:20px;
+      color:#921123;
+  }
+  .Subscribeform .quform-submit{
+      background: #921123;
+      color: white;
+      width: 200px;
+      height:60px;
+      margin-left: 175px;
+  }
+  #scholarimage .wpb_wrapper-inner{
+      height:70vh !important;
+      margin:0 auto;
+  }
+  .sp-lc-container .sp-lc-pagination.swiper-pagination{
+      display:none;
+  }
+  .Subscribeform .wpb_text_column{
+      padding;0px 15px;
+  }
+  {
+      padding-left:0px !important;
+      margin-top:55px !important;
+  }
+  
+  .subscform .wpb_wrapper-inner {
+      box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
+      padding:40px 60px;
+      border-radius:5px;
+  }
+  .subscform{
+  
+  }
+  .quform-button-submit {
+      float:right;
+  }
+  .quform-button-submit quform-button-submit-default quform-button-submit-1_2{
+      float:right;
+  }
+  /*#careers .careercard:hover{
+  background: #921123;	
+      color: white;
+  }*/
+  @media screen and (max-width: 600px) {
+    .Applysection .applybutton {
+     height:60px;
+       font-size: 15px;
+   }
+  }
+  .applybtn{
+      background:#5e5e5e;
+      border:1px solid #5e5e5e;
+      height:70px;
+      width: 230px;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  @media screen and (max-width: 600px) {
+     .Applysection .applybtn {
+     height:60px;
+       font-size: 15px;
+    }
+  }
+  .applybutton {
+      background:#921123;
+      border:1px solid #5e5e5e;
+      height:70px;
+      width: 230px;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .applybtn:hover{
+      background:#921123;
+      color:white;
+  }
+  .applybtn .wpb_wrapper-inner{
+      text-align:center;
+  }
+  .facultytext{
+        text-align: left;
+      line-height: 0.6;
+      padding-top: 50px;
+      padding-left:25px;
+      padding-right:10px;
+  }
+  .careercard{
+      border:1px solid #921123;
+  }
+  /*scholarsip section*/
+  .scholarvmbtn button{
+      background: #921123 !important;
+      color: white !important;
+      width: 180px !important;
+  }
+  .scholarvmbtn button:hover{
+      background:white !important;
+      color:#921123 !important;
+      border:1px solid #921123 !important;
+  }
+  .cta-view-more{
+      border:none !important;
+      padding-left:0px !important;
+  }
+  .cta-view-more .vc_cta3-actions{
+      text-align:center;
+  }
+  .cta-view-more .vc_cta3-content{
+      text-align:center !important;
+  }
+  .scholarvmbtn a{
+      background: #921123 !important;
+      color: white !important;
+      width: 180px;
+  }
+  .scholarvmbtn a:hover{
+      background:white !important;
+      color:#921123 !important;
+      border:1px solid #921123 !important;
+  }
+  /*end of scholarsip section*/
+  /* form css */
+  .subscform .quform-input #quform_1_17_a72c15-button{
+  width: 100% !important;
+      height: 55px !important;
+      text-align: center !important;
+      padding-top: 20px !important;
+  }
+  /*end of form*/
+  
+  .text-hidden{
+      visibility:hidden !important;
+  }
+  .ebs-lightgrey{
+      background:whitesmoke;
+  }
+  .ebs-darkgreen{
+      background:#B9DADA;
+  }
+  .recognition-img{
+      text-align: center !important;
+  }
+  /* programs page*/
+  .vc_tta-tab{
+      width:20%;
+  }
+  .vc_tta-tabs-list{
+      text-align: center;
+  }
+  .program-card{
+      border: 1px solid #dee2e6;
+      padding: 0px !important;
+          width: 23% !important;
+      margin: 25px 12px !important;
+  }
+  .program-card .vc_column-inner{
+          padding: 0px !important;
+  }
+  .vc_tta-panel-body{
+      background: white !important;
+  }
+  .pgm-title-holder a{
+      color: #921123 !important;
+  }
+  /*globaly recognized cards*/
+  .gov-punjab .fancy-box-image {
+      padding-left: 22% !important;
+      padding-right: 22% !important;
+  }
+  .gov-punjab .fancy-box-contents{
+      padding-top: 0px !important;
+  }
+  #globaly-fancy-box{
+      height :800px ;
+  }
+  
+  /* hu campus page */
+  #campus-heading{
+      height: 115px;
+  }
+  #campus-text{
+      color: black;
+  }
+  #campus-text2{
+      color: black;
+  }
+  #campus-text3{
+      color: black;
+  }
+  #campuses-sections .vc_column-inner .wpb_wrapper .wpb_wrapper-inner{
+      box-shadow: 0 0 20px 0 rgb(0 83 179 / 15%);
+  }
+  #takestep-btn .btn{
+    float: right;
+  }
+  /*faculty page*/
+  .faculty-tabs .font-weight-semibold.active a{
+      color:#921123 !important;
+  }
+  .faculty-tabs .font-weight-semibold a.hover{
+      color:#921123 !important;
+  }
+  /*current student page*/
+  .useful-links-cards{
+      text-align: center;
+  }
+  .useful-links-cards {
+      border: 1px solid #D3D3D3;
+      border-radius: 0px !important;
+      padding: 0px !important;
+      margin: 0px !important;
+  }
+  .useful-links-cards:hover{
+      color: white !important;
+      background: black !important;
+  }
+  .useful-links-cards h3{
+   height: 80px;
+  }
+  .useful-links-boxes:hover h3{
+      color: white !important;
+  }
+  .useful-links-cards .fancy-box-image .loaded{
+      width: 130px !important;
+      height: 100px !important;
+      margin: 30px;
+  }
+  .useful-links-images .vc_column-inner{
+      padding: 0px !important;
+  }
+  .useful-links-boxes .vc_column-inner{
+      padding: 0px !important;
+  }
+  #current-s-btn .vc_general{
+      background: #921123 !important;
+      color: white !important;
+      font-size: 16px;
+  }
+  #current-s-btn .vc_general:hover{
+      background: white !important;
+      color: #921123 !important;
+      font-size: 16px;
+      font-weight: bold;
+      border:1px solid #921123;
+  }
+  /*campus facility page*/
+  .campus-facility-divs{
+      text-align: center;
+  }
+  .campus-facility-top-heading{
+      text-align: center;
+  }
+  .video-stream{
+      width: 1270px !important;
+      height: 759px !important;
+      left: 440px !important;
+      top: 0px;
+  }
+  .campus-video .html5-video-player .video-click-tracking, .html5-video-player .video-stream{
+      width:56px !important;
+  }
+  /*quality enhancement cell page*/
+  #marquee-clm{
+      height: 77px !important;
+  }
+  .vc_toggle_icon{
+      background:#921123 !important;
+      border: 1px solid #921123 !important;
+  }
+  .vc_toggle_default .vc_toggle_icon::before
+  {
+      border: 2px solid #921123 !important;
+  }
+  .vc_toggle_default .vc_toggle_icon::after
+  {
+      background:#921123 !important;
+  }
+  /*convocation page*/
+  .convocation-hu-at-glance .fancy-title > :first-child{
+      height: 80px !important;
+  }
+  .convocation-hu-at-glance  .fancy-title > :last-child{
+      height: 150px !important;
+      text-align: justify;
+  }
+  /*hu student portal page*/
+  .student-portal-images .wpb_wrapper:hover{
+      box-shadow: 0 17px 10px rgb(0 0 0 / 40%);
+      transform:perspective(1000px) scale(1.03);
+    transition:transform.35s;
+  }
+  /*faculty pages*/
+  .faculty-btns.btn-bordered{
+      font-size: 1rem;
+      line-height: 1;
+      padding-right: 1.25rem;
+      padding-left: 1.25rem;
+      background-image: -webkit-gradient(linear,left top,right top,color-stop(50%,#921123),color-stop(0%,transparent));
+      background-image: linear-gradient(to right,#921123 50%,transparent 0%);
+      background-size: 205% 100%;
+      background-position: right bottom;
+          border-color: #921123 !important;
+      color: #921123 !important;
+  }
+  .faculty-cards{
+      text-align: center;
+  }
+  .banner-divider{
+      text-align: center;
+  }
+  .divider-banner-main{
+      height:auto;
+      padding: 80px 0px;
+  }
+  .seperator-border-right .wpb_wrapper {
+      border-right: 1px solid #921123 !important;
+  }
+  .seperator-border-left .wpb_wrapper {
+      border-left: 2px solid #921123 !important;
+  }
+  #love-hajvery-bg .wpb_wrapper{
+      background-position:right !important;
+  }
+  .large-buttons-div{
+      text-align: center;
+  }
+  @media screen and (max-width: 380px) {
+      .faculty-large-btns{
+      font-size: 22px !important;
+      }
+      .divider-text{
+              font-size: 40px !important;
+  }
+  }
+  @media screen and (max-width: 2400px) and (min-width: 381px) {
+      .faculty-large-btns{
+      font-size: 25px !important;
+          font-size: 1rem;
+      line-height: 1;
+  /*     padding-right: 1.25rem;
+      padding-left: 1.25rem; */
+      background-image: -webkit-gradient(linear,left top,right top,color-stop(50%,#19388A),color-stop(0%,transparent));
+      background-image: linear-gradient(to right,#921123 50%,transparent 0%);
+      background-size: 205% 100%;
+      background-position: right bottom;
+  }
+  }
+  .faculty-large-btns:hover{
+      color: white;
+      background-color: #921123;
+      background-position: left bottom !important;
+  }
+  .degree-cards-btns:hover{
+      color: white !important;
+      background-color: #921123;
+        transition: all .3s ease-out !important;
+      background-position: left bottom !important;
+  }
+  .divider-btn:hover{
+      background-color: white;
+      color: #921123;
+      border: 1px solid #921123;
+  }
+  .wpb_single_image .vc_single_image-wrapper.vc_box_outline img, .wpb_single_image .vc_single_image-wrapper.vc_box_outline_circle img{
+      padding:15px !important;
+      border: none !important;
+  }
+  .vm::before{
+      content: '';
+      display: inline-block;
+      width: 40px;
+      height: 2px;
+      background-color:         currentColor;
+      vertical-align: middle;
+      margin-right: 7px;
+  }
+  .lqd-vbg-video{
+  /* 	padding-left:100px;
+      padding-right: 15px; */
+  }
+  .faculty-cards{
+  font-family:	Hind, sans-serif;
+  }
+  /*internship and corporate interaction page*/
+  .ted-hup-heading{
+      text-align: center;
+      padding-top: 30px;
+  }
+  .junoon-magazine{
+      text-align: center !important;
+  }
+  /*student societies page*/
+  .societies-img{
+      margin-bottom: -15px !important;
+  }
+  /*how-to-apply*/
+  .video-how-apply{
+      text-align: center;
+  }
+  /*Admission open*/
+  .Find-your-way-tab-section .tabs-nav-side-alt .tabs-nav{
+      width: 13.6% !important;
+  }
+  /*charter, reputation page*/
+  .convocation-hu-at-glance .wpb_wrapper-inner{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .charter-faq h4{
+      font-weight:100;
+  }
+  
+  .charter-faq .merit-toggle-lists.vc_toggle_size_md.vc_toggle_default .vc_toggle_content, .vc_toggle_size_md.vc_toggle_default .vc_toggle_title{
+      padding: 0px 30px;
+  }
+  
+  .charter-faq .vc_toggle_size_md.vc_toggle_default .vc_toggle_icon::before
+  {
+      border: 2px solid #921123 !important;
+  }
+  .charter-faq .vc_toggle_size_md.vc_toggle_default .vc_toggle_icon::after
+  {
+      background:#921123 !important;
+  }
+  /*vision and mission page*/
+  .vision-section .wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
+      margin-bottom: 0px !important;
+  }
+  .vision-text::before{
+      content: url('https://www.hup.edu.pk/wp-content/uploads/2022/01/Coma_2_20x20.png');
+      width: 9px;
+  /*     top: 5px; */
+        height: 20px;
+      left: 92px;
+      bottom: 70px;
+      
+      position: absolute;
+      z-index: 999;
+  }
+  .vision-text::after{
+      content: url('https://www.hup.edu.pk/wp-content/uploads/2022/01/Coma_20x20.png');
+      width: 9px;
+  /*     top: 5px; */
+        height: 20px;
+  /*     left: 92px; */
+      right: 605px;
+      bottom: -5px;
+      position: absolute;
+      z-index: 999;
+  }
+  .mision-text::before{
+      content: url('https://www.hup.edu.pk/wp-content/uploads/2022/01/Coma_2_20x20.png');
+      width: 9px;
+        height: 20px;
+      left: 100px;
+      bottom:40px;
+      position: absolute;
+      z-index: 999;
+  }
+  .mision-text::after{
+      content: url('https://www.hup.edu.pk/wp-content/uploads/2022/01/Coma_20x20.png');
+      width: 9px;
+  /*     top: 5px; */
+        height: 20px;
+  /*     left: 100px; */
+      bottom: -5px;
+      position: absolute;
+      z-index: 999;
+  }
+  /*pakistan leading university*/
+  #campuses-section .vc_column-inner .wpb_wrapper .wpb_wrapper-inner{
+      padding-bottom: 50px;
+  }
+  #campuses-sections .vc_column-inner .wpb_wrapper .wpb_wrapper-inner{
+      text-align: center;
+  }
+  #campuses-sections .vc_column-inner .wpb_wrapper .wpb_wrapper-inner .btn.border-thin {
+  margin-top: 35px;
+  }
+  .campuses-pics :hover{
+      transition: transform .2s;
+  }
+  
+  /*merit-list-page*/
+  .merit-toggle-lists.vc_toggle_size_md.vc_toggle_default .vc_toggle_content, .vc_toggle_size_md.vc_toggle_default .vc_toggle_title{
+      padding: 0px 70px;
+  }
+  .merit-toggle-lists:hover{
+      color: black !important;
+  }
+  /*why hajvery page*/
+  
+  .why-hajvery-cards2 .wpb_wrapper-inner{
+  /* 	padding: 0px 55px !important; */
+  }
+  /*top-notch-faculty*/
+  ul.nav.tabs-nav li a:hover{
+      color: #921123 !important;
+  }
+  vc_toggle_title:hover{
+      color: black;
+  }
+  .fancy-box-classes .trainer{
+      font-size:18px;
+      color: black;
+      text-align: justify;
+      display: inline-block;
+  }
+  
+  .turkey-council .fancy-box-image{
+      padding-top: 25% !important;
+  }
+   .european  .fancy-box-image{
+      padding-top: 25% !important;
+  }
+   .erasmus .fancy-box-image{
+      padding-top: 25% !important;
+  }
+  .recognition-2{
+      padding-bottom:50px;
+  }
+  
+  .footer-social-handlers .fa{
+      padding: 15px 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    display: inline !important;
+  }
+  
+  .footer-social-handlers .fa-facebook:hover {
+    color: #3B5998 !important;
+  }
+  
+  
+  .footer-social-handlers .fa-twitter:hover {
+    color: #55ACEE !important;
+  }
+  
+  .footer-social-handlers.fa-youtube:hover {
+    color: #bb0000;
+  
+  }
+  .footer-social-handlers .fa-whatsapp:hover {
+   color: #25D366 !important;
+  }
+  .header-socials{
+      padding-top:10px !important;
+      padding-right:45px !important;
+  }
+  .footer-social-handlers .fa-instagram:hover {
+    color: #125688 !important;
+  }
+  .header-socials .fa{
+      padding: 15px 5px;
+    font-size: 20px;
+      color: rgb(147, 147, 156) !important;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    display: inline !important;
+  }
+  
+  .header-socials .fa-facebook:hover {
+    color: #3B5998 !important;
+  }
+  
+  
+  .header-socials .fa-twitter:hover {
+    color: #55ACEE !important;
+  }
+  
+  .header-socials .fa-youtube:hover {
+    color: #bb0000 !important;
+  
+  }
+  .header-socials .fa-whatsapp:hover {
+   color: #25D366 !important;
+  }
+  
+  .header-socials .fa-instagram:hover {
+    color: #125688 !important;
+  }
+  
+  /* petsaal tech - custom CSS */
+  
+  .nav-trigger.style-mobile .bars
+  {
+      background-color: white !important;
+      width: 50px !important;
+      
+  }
+  
+  .mb-image
+  {
+      margin-bottom: 10px !important;
+  
+  }
+  
+  .apply-now-button-mobile
+  {
+      background-color: red;
+      width: 20px;
+      padding:30px;
+      color:white;
+      border-radius:60px;
+      
+      
+      
+  }
+   
+  
+  
+  /* Petsaal tech custom CSS */
+  
+  
+  
+  
